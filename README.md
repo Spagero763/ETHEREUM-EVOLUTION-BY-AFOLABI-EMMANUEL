@@ -5,7 +5,7 @@ When Vitalik Buterin introduced Ethereum in 2015, he envisioned a “world compu
 
 From Proof-of-Work to Proof-of-Stake:
 
-#The Merge
+# The Merge
 
 The most consequential upgrade in Ethereum’s history arrived in September 2022 with “The Merge,” a technical achievement that had been years in development. This transition replaced Ethereum’s energy-intensive proof-of-work consensus mechanism with proof-of-stake, immediately reducing the network’s energy consumption by approximately 99.95%
 
@@ -25,11 +25,9 @@ This upgrade also made transaction costs more predictable, reducing the frustrat
 Scaling Through Sharding and Layer 2 Solutions
 Ethereum’s roadmap has consistently prioritized scalability, acknowledging that serving billions of users requires processing far more transactions than the base layer currently handles. The network’s approach has evolved toward a “rollup-centric” strategy, where Ethereum serves as a secure settlement layer while layer 2 networks handle transaction execution
 
-[5].
-Networks like Arbitrum, Optimism, Base, and zkSync bundle thousands of transactions together, execute them off the main chain, and post compressed data back to Ethereum for security. These layer 2 solutions have reduced transaction costs by orders of magnitude while maintaining Ethereum’s security guarantees. A transaction that might cost several dollars on mainnet Ethereum can cost pennies on a layer 2, making microtransactions and frequent interactions economically viable
+[5].Networks like Arbitrum, Optimism, Base, and zkSync bundle thousands of transactions together, execute them off the main chain, and post compressed data back to Ethereum for security. These layer 2 solutions have reduced transaction costs by orders of magnitude while maintaining Ethereum’s security guarantees. A transaction that might cost several dollars on mainnet Ethereum can cost pennies on a layer 2, making microtransactions and frequent interactions economically viable
 
-[6].
-The planned implementation of danksharding and proto-danksharding represents the next evolution in this scaling strategy. These upgrades will dramatically reduce the cost of posting data to Ethereum, making layer 2 networks even cheaper while preserving the security inheritance from the main chain
+[6].The planned implementation of danksharding and proto-danksharding represents the next evolution in this scaling strategy. These upgrades will dramatically reduce the cost of posting data to Ethereum, making layer 2 networks even cheaper while preserving the security inheritance from the main chain
 
 [7]. This architecture positions Ethereum not as a monolithic blockchain trying to do everything itself, but as a robust foundation upon which an entire ecosystem of specialized networks can flourish.
 Developer Experience and Smart Contract Improvements
@@ -53,7 +51,7 @@ Conclusion
 Ethereum’s evolution through strategic upgrades demonstrates how thoughtful technical development can establish and maintain platform leadership in a competitive landscape. The transition to proof-of-stake, the implementation of EIP-1559, the embrace of layer 2 scaling, and continuous developer experience improvements have collectively positioned Ethereum as the infrastructure layer for decentralized applications and programmable value.
 These upgrades reflect a coherent long-term vision executed through incremental improvements rather than disruptive rebuilds. By prioritizing security and decentralization while systematically addressing scalability and usability, Ethereum has built not just a blockchain, but a platform capable of supporting an entire economic ecosystem. As the network continues evolving toward its final form, the foundations laid through years of careful upgrades ensure that Ethereum remains at the forefront of blockchain innovation and adoption.
 
-#References
+# References
 
 [1] Ethereum Foundation. (2022). “The Merge.” Ethereum.org. https://ethereum.org/en/roadmap/merge/
 
